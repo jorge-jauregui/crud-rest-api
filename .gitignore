@@ -1,3 +1,5 @@
-# Database configuration
+# dependencies
+/node_modules
 
+# database configuration
 /db.config.js
