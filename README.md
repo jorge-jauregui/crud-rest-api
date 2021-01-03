@@ -4,7 +4,7 @@ This repository was created with the purpose of building a basic CRUD Todo app u
 testing the Rest Apis using Postman. This repository consists of a Node.js app, an Express web server, a Mongoose model, routes for client requests, and a 
 controller with CRUD functions (create, findAll, findOne, update, delete, deleteAll).
 
-Testing the Apis with Postman provides the following results: 
+Testing the Apis with Postman provides the following successful results: 
 
 Create a new todo using POST/ todos
 
