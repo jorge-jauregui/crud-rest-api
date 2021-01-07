@@ -20,6 +20,17 @@ Update a todo using PUT /todos/:id
 
 ![3](https://user-images.githubusercontent.com/62124046/103469703-f03ec280-4d1c-11eb-830e-5059c014513c.png)
 
+Find a todo with "3" in the title using GET /todos?title=3
+
+![4](https://user-images.githubusercontent.com/62124046/103837165-fea01d80-503f-11eb-9f1d-f2afce94d375.png)
+
+Delete a todo using DELETE /todos/:id
+
+![5](https://user-images.githubusercontent.com/62124046/103837836-6bb3b300-5040-11eb-8972-bdf7d8bb13b3.png)
+
+Delete all todos using DELETE /todos
+
+![6](https://user-images.githubusercontent.com/62124046/103837963-ba614d00-5040-11eb-82d8-ed2e2d29ac45.png)
 
 
 
