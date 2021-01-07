@@ -3,7 +3,7 @@
 This repository was created with the purpose of building a basic CRUD Todo app using Javascript server-side technologies (Node.js, Express.js), a MongoDB database, and Postman to test the Rest Apis. The project consists of a Node.js app, an Express web server, a Mongoose model, routes for client requests, and a 
 controller with CRUD functions (create, findAll, findOne, update, delete, deleteAll).
 
-Testing the Apis with Postman provides the following successful results: 
+Testing the Apis with Postman provides the following results: 
 
 Create a new todo using POST/ todos
 
